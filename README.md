@@ -1,4 +1,4 @@
-# 💻 Hello, I'm [Your Name]!
+# 💻 Hello, I'm Shamim Ara!
 
 Welcome to my GitHub profile! I'm a passionate and dedicated Software Engineer specializing in full-stack development with a focus on **.NET technologies**, **system architecture**, and **AI applications**.
 
@@ -7,9 +7,8 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Software Engineer s
 ## 🚀 About Me
 
 - 🎓 Currently preparing for a PhD in Software Engineering / AI / System Architecture.
-- 👨‍💻 Experienced in building enterprise-level applications using **ASP.NET MVC**, **C#**, and **SQL Server**.
+- 👨‍💻 Experienced in building enterprise-level applications using **ASP.NET MVC**, **C#**,**Oracle** and **SQL Server**.
 - 📊 Skilled in data reporting, inventory/asset management systems, and performance optimization.
-- 🤖 Enthusiast in Machine Learning and Deep Learning – especially **CNN models** for image-based analysis.
 - 🌱 Currently expanding knowledge in **cloud computing**, **containerization (Docker, Kubernetes)**, and **microservices**.
 
 ---
@@ -17,13 +16,13 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Software Engineer s
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`C#` `JavaScript` `Python` `SQL` `HTML/CSS`
+`C` `C#` `JavaScript` `JQuery` `SQL` `HTML/CSS`
 
 **Frameworks & Libraries:**  
-`.NET Core` `ASP.NET MVC` `Entity Framework` `jQuery` `Bootstrap` `TensorFlow/Keras`
+`.NET Core` `ASP.NET MVC` `Entity Framework` `jQuery` `Bootstrap` 
 
 **Tools & Platforms:**  
-`Visual Studio` `SQL Server Management Studio` `Postman` `Git & GitHub` `Docker` `Azure`
+`Visual Studio` `SQL Server Management Studio` `Toad` `Git & GitHub` `Docker` `Azure`
 
 **Database Systems:**  
 `SQL Server` `Oracle` `MySQL`
